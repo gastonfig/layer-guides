@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpc defaultLocale="en_US" version="3" keySequence="33" currentLocale="en_US">
+  <product appid="PHSP" version="13" name="Photoshop CS6"/>
+  <target id="PHSP-13"/>
+  <ConfiguratorPanel name="Layer Guides" width="260" height="73" init="doInit" close="doClose" persistent="false" extensionId="com.configurator.extension" extensionVersion="1.0.0" menuName="Layer Guides" flyoutMenuAbout="$$$/Configurator/FlyoutMenu/about" minWidth="260" maxWidth="260" minHeight="73" maxHeight="73">
+    <onInit><![CDATA[]]></onInit>
+    <aboutBox><![CDATA[]]></aboutBox>
+    <extensionDescription><![CDATA[Layer Guides is a Photoshop Panel that allows to quickly create guides around the selected layer.]]></extensionDescription>
+    <extensionAuthor><![CDATA[Gastonfig]]></extensionAuthor>
+    <onClose><![CDATA[]]></onClose>
+    <eventListeners>
+      <function id="doInit" actionType="jsfunction" jsFunctionName="invoke_script">
+        <param id="onInit"/>
+      </function>
+      <function id="doClose" actionType="jsfunction" jsFunctionName="invoke_script">
+        <param id="onClose"/>
+      </function>
+    </eventListeners>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###1" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###2" cfgVisible="$$$/Configurator/Attribute/visible/value###3" fileUrl="$$$/Configurator/key_###4" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" mouseUpIcon="Images/left_Up.png" x="29" y="20" width="34" height="34" mouseOverIcon="Images/left_Over.png" mouseDownSkinIcon="Images/left_Down.png"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###5" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###6" cfgVisible="$$$/Configurator/Attribute/visible/value###7" fileUrl="$$$/Configurator/key_###8" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="63" y="20" mouseUpIcon="Images/top_Up.png" width="33" height="34" mouseOverIcon="Images/top_Over.png" mouseDownSkinIcon="Images/top_Down.png"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###9" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###10" cfgVisible="$$$/Configurator/Attribute/visible/value###11" fileUrl="$$$/Configurator/key_###12" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="96" y="20" mouseUpIcon="Images/right_Up.png" width="33" height="34" mouseOverIcon="Images/right_Over.png" mouseDownSkinIcon="Images/right_Down.png"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###13" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###14" cfgVisible="$$$/Configurator/Attribute/visible/value###15" fileUrl="$$$/Configurator/key_###16" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="129" y="20" mouseUpIcon="Images/bottom_Up.png" width="33" height="34" mouseOverIcon="Images/bottom_Over.png" mouseDownSkinIcon="Images/bottom_Down.png"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###17" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###18" cfgVisible="$$$/Configurator/Attribute/visible/value###19" fileUrl="$$$/Configurator/key_###20" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="162" y="20" mouseUpIcon="Images/v-center_Up.png" width="33" height="34" mouseOverIcon="Images/v-center_Over.png" mouseDownSkinIcon="Images/v-center_Down.png"/>
+    <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###21" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###22" cfgVisible="$$$/Configurator/Attribute/visible/value###23" fileUrl="$$$/Configurator/key_###24" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="true" x="195" y="20" mouseUpIcon="Images/h-center_Up.png" width="34" height="34" mouseOverIcon="Images/h-center_Over.png" mouseDownSkinIcon="Images/h-center_Down.png"/>
+  </ConfiguratorPanel>
+</gpc>

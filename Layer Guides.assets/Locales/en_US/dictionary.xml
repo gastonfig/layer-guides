@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asf locale="en_US" version="1.0" xmlns="http://ns.adobe.com/asf">
+  <str name="Configurator/ActionScript/ScriptFile/desc###10" translate="yes">
+    <val>Right Guide</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###14" translate="yes">
+    <val>Bottom Guide</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###18" translate="yes">
+    <val>Vertical Center</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###2" translate="yes">
+    <val>Left Guide</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###22" translate="yes">
+    <val>Horizontal Center</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###31" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###6" translate="yes">
+    <val>Top Guide</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###1" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###13" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###17" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###21" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###30" translate="yes">
+    <val>Script File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###5" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###9" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Attribute/visible/value###11" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###15" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###19" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###23" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###26" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###27" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###29" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###3" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###32" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###7" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Container/Canvas/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/FlyoutMenu/about" translate="yes">
+    <val>About</val>
+  </str>
+  <str name="Configurator/key_###12" translate="yes">
+    <val>Scripts/right-guide.jsx</val>
+  </str>
+  <str name="Configurator/key_###16" translate="yes">
+    <val>Scripts/bottom-guide.jsx</val>
+  </str>
+  <str name="Configurator/key_###20" translate="yes">
+    <val>Scripts/vertical-center.jsx</val>
+  </str>
+  <str name="Configurator/key_###24" translate="yes">
+    <val>Scripts/horizontal-center.jsx</val>
+  </str>
+  <str name="Configurator/key_###25" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###28" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###33" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###4" translate="yes">
+    <val>Scripts/left-guide.jsx</val>
+  </str>
+  <str name="Configurator/key_###8" translate="yes">
+    <val>Scripts/top-guide.jsx</val>
+  </str>
+  <str name="Configurator/Widget/PanelLoader/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/PanelLoader/invalidPanelPrompt" translate="yes">
+    <val>The referred panel is invalid.</val>
+  </str>
+  <str name="Main-View-Show-Guides/desc" translate="yes">
+    <val>Guides</val>
+  </str>
+  <str name="Main-View-Show-Guides/name" translate="yes">
+    <val>Guides</val>
+  </str>
+</asf>
