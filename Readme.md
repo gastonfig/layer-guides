@@ -7,7 +7,7 @@ The extension places guides around a layer (top, right, bottom, and left sides) 
 ## Installation
 1. If you installed an older version of this extension manually (by moving files inside your Photoshop folder) you need to remove it before installing an update.
 
-- To uninstall the old version you can delete the folder **Your Photoshop Folder]/Plug-ins/Panels/Layers Guide**.
+- To uninstall the old version you can delete the folder **[Your Photoshop Folder]/Plug-ins/Panels/Layers Guide**.
 
 2. Download the latest version of the extension and open it with [Adobe Extension Manager](http://www.adobe.com/exchange/em_download/).
 
