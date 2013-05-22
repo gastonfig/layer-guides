@@ -19,7 +19,7 @@ With a layer selected click on any of Layer Guides' buttons to create a guide.
 
 ## Version History
 
-### V.0.5.0
+### 0.5.0
 - Packaged extension as an .zxp for Adobe Extension Manager.
 - Fixed bug where vertical and horizontal center buttons had switched functionality.
 
